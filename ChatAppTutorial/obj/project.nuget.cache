@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YA9iSoc/szXy4ErLcPvc/SDJLMuj19Do25xv+6AA4lsrcHkhs35y6Knd7L7/Air1O1pPy31imG0s6XSIZPGriw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\artel\\source\\repos\\ChatAppTutorial\\ChatAppTutorial\\ChatAppTutorial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\artel\\.nuget\\packages\\fody\\6.6.4\\fody.6.6.4.nupkg.sha512",
+    "C:\\Users\\artel\\.nuget\\packages\\propertychanged.fody\\4.1.0\\propertychanged.fody.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
