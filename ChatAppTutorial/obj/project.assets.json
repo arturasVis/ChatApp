@@ -97,11 +97,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\artel\\source\\repos\\ChatAppTutorial\\ChatAppTutorial\\ChatAppTutorial.csproj",
+      "projectUniqueName": "C:\\repos\\ChatApp\\ChatAppTutorial\\ChatAppTutorial.csproj",
       "projectName": "ChatAppTutorial",
-      "projectPath": "C:\\Users\\artel\\source\\repos\\ChatAppTutorial\\ChatAppTutorial\\ChatAppTutorial.csproj",
+      "projectPath": "C:\\repos\\ChatApp\\ChatAppTutorial\\ChatAppTutorial.csproj",
       "packagesPath": "C:\\Users\\artel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\artel\\source\\repos\\ChatAppTutorial\\ChatAppTutorial\\obj\\",
+      "outputPath": "C:\\repos\\ChatApp\\ChatAppTutorial\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -116,7 +116,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\Zebra Technologies\\link_os_sdk\\PC-.NET\\v2.15.2634\\lib": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },

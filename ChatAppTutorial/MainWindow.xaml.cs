@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿using ChatAppTutorial.ViewModel;
+using System.Text;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -19,6 +20,8 @@ namespace ChatAppTutorial
         public MainWindow()
         {
             InitializeComponent();
+
+            this.DataContext=new WindowViewModel(this);
         }
     }
 }

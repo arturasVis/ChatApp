@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\artel\source\repos\ChatAppTutorial\ChatAppTutorial\obj\Debug\net8.0-windows\
+C:\repos\ChatApp\ChatAppTutorial\obj\Debug\net8.0-windows\
 ChatAppTutorial
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-C:\Users\artel\source\repos\ChatAppTutorial\ChatAppTutorial\App.xaml
-6-1071697250
+C:\repos\ChatApp\ChatAppTutorial\App.xaml
+7-723592625
 1-1606303973
-61495938682
+12-990473596
 199184267963
-MainWindow.xaml;Styles\Buttons.xaml;Styles\Colours.xaml;Styles\Fonts.xaml;Styles\Texts.xaml;Styles\Windows.xaml;
+MainWindow.xaml;Pages\LoginPage.xaml;Styles\Buttons.xaml;Styles\Colours.xaml;Styles\Fonts.xaml;Styles\Texts.xaml;Styles\Windows.xaml;
 
 False
 

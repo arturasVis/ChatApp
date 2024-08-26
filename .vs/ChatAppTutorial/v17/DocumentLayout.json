@@ -1,34 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\artel\\source\\repos\\ChatAppTutorial\\",
+  "WorkspaceRootPath": "C:\\repos\\ChatApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C361A61E-40CD-4E76-8154-877FFA0781A7}|ChatAppTutorial\\ChatAppTutorial.csproj|c:\\users\\artel\\source\\repos\\chatapptutorial\\chatapptutorial\\styles\\fonts.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C361A61E-40CD-4E76-8154-877FFA0781A7}|ChatAppTutorial\\ChatAppTutorial.csproj|solutionrelative:chatapptutorial\\styles\\fonts.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{C361A61E-40CD-4E76-8154-877FFA0781A7}|ChatAppTutorial\\ChatAppTutorial.csproj|c:\\repos\\chatapp\\chatapptutorial\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C361A61E-40CD-4E76-8154-877FFA0781A7}|ChatAppTutorial\\ChatAppTutorial.csproj|solutionrelative:chatapptutorial\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C361A61E-40CD-4E76-8154-877FFA0781A7}|ChatAppTutorial\\ChatAppTutorial.csproj|c:\\users\\artel\\source\\repos\\chatapptutorial\\chatapptutorial\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C361A61E-40CD-4E76-8154-877FFA0781A7}|ChatAppTutorial\\ChatAppTutorial.csproj|solutionrelative:chatapptutorial\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{C361A61E-40CD-4E76-8154-877FFA0781A7}|ChatAppTutorial\\ChatAppTutorial.csproj|c:\\repos\\chatapp\\chatapptutorial\\styles\\texts.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C361A61E-40CD-4E76-8154-877FFA0781A7}|ChatAppTutorial\\ChatAppTutorial.csproj|solutionrelative:chatapptutorial\\styles\\texts.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C361A61E-40CD-4E76-8154-877FFA0781A7}|ChatAppTutorial\\ChatAppTutorial.csproj|c:\\users\\artel\\source\\repos\\chatapptutorial\\chatapptutorial\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{C361A61E-40CD-4E76-8154-877FFA0781A7}|ChatAppTutorial\\ChatAppTutorial.csproj|c:\\repos\\chatapp\\chatapptutorial\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{C361A61E-40CD-4E76-8154-877FFA0781A7}|ChatAppTutorial\\ChatAppTutorial.csproj|solutionrelative:chatapptutorial\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C361A61E-40CD-4E76-8154-877FFA0781A7}|ChatAppTutorial\\ChatAppTutorial.csproj|c:\\users\\artel\\source\\repos\\chatapptutorial\\chatapptutorial\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C361A61E-40CD-4E76-8154-877FFA0781A7}|ChatAppTutorial\\ChatAppTutorial.csproj|solutionrelative:chatapptutorial\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C361A61E-40CD-4E76-8154-877FFA0781A7}|ChatAppTutorial\\ChatAppTutorial.csproj|c:\\repos\\chatapp\\chatapptutorial\\styles\\buttons.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C361A61E-40CD-4E76-8154-877FFA0781A7}|ChatAppTutorial\\ChatAppTutorial.csproj|solutionrelative:chatapptutorial\\styles\\buttons.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C361A61E-40CD-4E76-8154-877FFA0781A7}|ChatAppTutorial\\ChatAppTutorial.csproj|c:\\users\\artel\\source\\repos\\chatapptutorial\\chatapptutorial\\viewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C361A61E-40CD-4E76-8154-877FFA0781A7}|ChatAppTutorial\\ChatAppTutorial.csproj|solutionrelative:chatapptutorial\\viewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C361A61E-40CD-4E76-8154-877FFA0781A7}|ChatAppTutorial\\ChatAppTutorial.csproj|c:\\repos\\chatapp\\chatapptutorial\\styles\\colours.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C361A61E-40CD-4E76-8154-877FFA0781A7}|ChatAppTutorial\\ChatAppTutorial.csproj|solutionrelative:chatapptutorial\\styles\\colours.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C361A61E-40CD-4E76-8154-877FFA0781A7}|ChatAppTutorial\\ChatAppTutorial.csproj|c:\\users\\artel\\source\\repos\\chatapptutorial\\chatapptutorial\\viewmodel\\rellaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C361A61E-40CD-4E76-8154-877FFA0781A7}|ChatAppTutorial\\ChatAppTutorial.csproj|solutionrelative:chatapptutorial\\viewmodel\\rellaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C361A61E-40CD-4E76-8154-877FFA0781A7}|ChatAppTutorial\\ChatAppTutorial.csproj|c:\\repos\\chatapp\\chatapptutorial\\styles\\fonts.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C361A61E-40CD-4E76-8154-877FFA0781A7}|ChatAppTutorial\\ChatAppTutorial.csproj|solutionrelative:chatapptutorial\\styles\\fonts.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C361A61E-40CD-4E76-8154-877FFA0781A7}|ChatAppTutorial\\ChatAppTutorial.csproj|c:\\users\\artel\\source\\repos\\chatapptutorial\\chatapptutorial\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C361A61E-40CD-4E76-8154-877FFA0781A7}|ChatAppTutorial\\ChatAppTutorial.csproj|solutionrelative:chatapptutorial\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C361A61E-40CD-4E76-8154-877FFA0781A7}|ChatAppTutorial\\ChatAppTutorial.csproj|c:\\repos\\chatapp\\chatapptutorial\\viewmodel\\windowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C361A61E-40CD-4E76-8154-877FFA0781A7}|ChatAppTutorial\\ChatAppTutorial.csproj|solutionrelative:chatapptutorial\\viewmodel\\windowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C361A61E-40CD-4E76-8154-877FFA0781A7}|ChatAppTutorial\\ChatAppTutorial.csproj|c:\\repos\\chatapp\\chatapptutorial\\viewmodel\\base\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C361A61E-40CD-4E76-8154-877FFA0781A7}|ChatAppTutorial\\ChatAppTutorial.csproj|solutionrelative:chatapptutorial\\viewmodel\\base\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,89 +47,99 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\ChatAppTutorial\\ChatAppTutorial\\App.xaml",
-              "RelativeDocumentMoniker": "ChatAppTutorial\\App.xaml",
-              "ToolTip": "C:\\Users\\artel\\source\\repos\\ChatAppTutorial\\ChatAppTutorial\\App.xaml",
-              "RelativeToolTip": "ChatAppTutorial\\App.xaml",
+              "Title": "Texts.xaml",
+              "DocumentMoniker": "C:\\repos\\ChatApp\\ChatAppTutorial\\Styles\\Texts.xaml",
+              "RelativeDocumentMoniker": "ChatAppTutorial\\Styles\\Texts.xaml",
+              "ToolTip": "C:\\repos\\ChatApp\\ChatAppTutorial\\Styles\\Texts.xaml",
+              "RelativeToolTip": "ChatAppTutorial\\Styles\\Texts.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-22T20:12:58.191Z",
+              "WhenOpened": "2024-08-26T11:53:41.076Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\ChatAppTutorial\\ChatAppTutorial\\App.xaml.cs",
-              "RelativeDocumentMoniker": "ChatAppTutorial\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\artel\\source\\repos\\ChatAppTutorial\\ChatAppTutorial\\App.xaml.cs",
-              "RelativeToolTip": "ChatAppTutorial\\App.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T20:12:54.699Z",
+              "Title": "Buttons.xaml",
+              "DocumentMoniker": "C:\\repos\\ChatApp\\ChatAppTutorial\\Styles\\Buttons.xaml",
+              "RelativeDocumentMoniker": "ChatAppTutorial\\Styles\\Buttons.xaml",
+              "ToolTip": "C:\\repos\\ChatApp\\ChatAppTutorial\\Styles\\Buttons.xaml",
+              "RelativeToolTip": "ChatAppTutorial\\Styles\\Buttons.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-26T11:32:19.043Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Fonts.xaml",
-              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\ChatAppTutorial\\ChatAppTutorial\\Styles\\Fonts.xaml",
-              "RelativeDocumentMoniker": "ChatAppTutorial\\Styles\\Fonts.xaml",
-              "ToolTip": "C:\\Users\\artel\\source\\repos\\ChatAppTutorial\\ChatAppTutorial\\Styles\\Fonts.xaml",
-              "RelativeToolTip": "ChatAppTutorial\\Styles\\Fonts.xaml",
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\repos\\ChatApp\\ChatAppTutorial\\Pages\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "ChatAppTutorial\\Pages\\LoginPage.xaml",
+              "ToolTip": "C:\\repos\\ChatApp\\ChatAppTutorial\\Pages\\LoginPage.xaml",
+              "RelativeToolTip": "ChatAppTutorial\\Pages\\LoginPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-22T20:10:18.034Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RellayCommand.cs",
-              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\ChatAppTutorial\\ChatAppTutorial\\ViewModel\\RellayCommand.cs",
-              "RelativeDocumentMoniker": "ChatAppTutorial\\ViewModel\\RellayCommand.cs",
-              "ToolTip": "C:\\Users\\artel\\source\\repos\\ChatAppTutorial\\ChatAppTutorial\\ViewModel\\RellayCommand.cs",
-              "RelativeToolTip": "ChatAppTutorial\\ViewModel\\RellayCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T20:01:57.694Z",
+              "WhenOpened": "2024-08-26T11:07:02.852Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "BaseViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\ChatAppTutorial\\ChatAppTutorial\\ViewModel\\BaseViewModel.cs",
-              "RelativeDocumentMoniker": "ChatAppTutorial\\ViewModel\\BaseViewModel.cs",
-              "ToolTip": "C:\\Users\\artel\\source\\repos\\ChatAppTutorial\\ChatAppTutorial\\ViewModel\\BaseViewModel.cs",
-              "RelativeToolTip": "ChatAppTutorial\\ViewModel\\BaseViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T20:01:43.215Z",
+              "Title": "Colours.xaml",
+              "DocumentMoniker": "C:\\repos\\ChatApp\\ChatAppTutorial\\Styles\\Colours.xaml",
+              "RelativeDocumentMoniker": "ChatAppTutorial\\Styles\\Colours.xaml",
+              "ToolTip": "C:\\repos\\ChatApp\\ChatAppTutorial\\Styles\\Colours.xaml",
+              "RelativeToolTip": "ChatAppTutorial\\Styles\\Colours.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-26T10:47:41.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Fonts.xaml",
+              "DocumentMoniker": "C:\\repos\\ChatApp\\ChatAppTutorial\\Styles\\Fonts.xaml",
+              "RelativeDocumentMoniker": "ChatAppTutorial\\Styles\\Fonts.xaml",
+              "ToolTip": "C:\\repos\\ChatApp\\ChatAppTutorial\\Styles\\Fonts.xaml",
+              "RelativeToolTip": "ChatAppTutorial\\Styles\\Fonts.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-26T10:44:44.815Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\ChatAppTutorial\\ChatAppTutorial\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\repos\\ChatApp\\ChatAppTutorial\\MainWindow.xaml",
               "RelativeDocumentMoniker": "ChatAppTutorial\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\artel\\source\\repos\\ChatAppTutorial\\ChatAppTutorial\\MainWindow.xaml",
+              "ToolTip": "C:\\repos\\ChatApp\\ChatAppTutorial\\MainWindow.xaml",
               "RelativeToolTip": "ChatAppTutorial\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-22T19:57:22.176Z",
+              "WhenOpened": "2024-08-26T10:43:10.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\repos\\ChatApp\\ChatAppTutorial\\ViewModel\\Base\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "ChatAppTutorial\\ViewModel\\Base\\BaseViewModel.cs",
+              "ToolTip": "C:\\repos\\ChatApp\\ChatAppTutorial\\ViewModel\\Base\\BaseViewModel.cs",
+              "RelativeToolTip": "ChatAppTutorial\\ViewModel\\Base\\BaseViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T10:40:17.421Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\ChatAppTutorial\\ChatAppTutorial\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "ChatAppTutorial\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\artel\\source\\repos\\ChatAppTutorial\\ChatAppTutorial\\MainWindow.xaml.cs",
-              "RelativeToolTip": "ChatAppTutorial\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "WindowViewModel.cs",
+              "DocumentMoniker": "C:\\repos\\ChatApp\\ChatAppTutorial\\ViewModel\\WindowViewModel.cs",
+              "RelativeDocumentMoniker": "ChatAppTutorial\\ViewModel\\WindowViewModel.cs",
+              "ToolTip": "C:\\repos\\ChatApp\\ChatAppTutorial\\ViewModel\\WindowViewModel.cs",
+              "RelativeToolTip": "ChatAppTutorial\\ViewModel\\WindowViewModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAwB4AAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T19:57:20.454Z",
+              "WhenOpened": "2024-08-26T10:31:45.639Z",
               "EditorCaption": ""
             }
           ]

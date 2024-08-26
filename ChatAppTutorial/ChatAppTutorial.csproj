@@ -10,6 +10,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Images\Backgrounds\emoji-background.png" />
     <None Remove="Images\Logo\icon.ico" />
     <None Remove="Images\Logo\logo-small.png" />
     <None Remove="Images\Logo\logo.png" />
@@ -24,6 +25,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Resource Include="Images\Backgrounds\emoji-background.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
     <Resource Include="Images\Logo\icon.ico" />
     <Resource Include="Images\Logo\logo-small.png" />
     <Resource Include="Images\Logo\logo.png" />
